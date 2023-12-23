@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **satyamjsw12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LU42YQRzWK_SGsJGh28vqVycOdlhZ1gn/view?usp=sharing](https://drive.google.com/file/d/1LU42YQRzWK_SGsJGh28vqVycOdlhZ1gn/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1LU42YQRzWK_SGsJGh28vqVycOdlhZ1gn/view?usp=sharing](https://drive.google.com/file/d/1LU42YQRzWK_SGsJGh28vqVycOdlhZ1gn/view?usp=sharing)]([https://drive.google.com/file/d/1LU42YQRzWK_SGsJGh28vqVycOdlhZ1gn/view?usp=sharing](https://drive.google.com/file/d/1LU42YQRzWK_SGsJGh28vqVycOdlhZ1gn/view?usp=sharing))
 
 - ⚡ Fun fact **watching movies sometimes**
 
