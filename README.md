@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **satyamjsw12@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1keZBPFH75ampDja7nc1IkqUxpQfPZka8/view?usp=drive_link)
+- 📄 Know about my experiences [Resume]
 
 - ⚡ Fun fact **watching movies sometimes**
 
