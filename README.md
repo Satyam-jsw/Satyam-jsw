@@ -1,5 +1,4 @@
 
-// ![img_p](https://github.com/Satyam-jsw/Satyam-jsw/assets/96405804/c2f7a868-f697-4ec8-bde7-a081e1e0b438)
 
 <h1 align="center">Hi 👋, I'm Satyam Jaiswal</h1>
 <h3 align="center">A passionate about MERN STACK DEVELOPER and Enjoy learning new tech !</h3>
