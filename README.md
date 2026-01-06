@@ -1,11 +1,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Satyam Jaiswal</h1>
-<h3 align="center">A passionate about JAVA DEVELOPER and Enjoy learning new tech !</h3>
+<h3 align="center">A passionate about JAVA DEVELOPER. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam-jsw&label=Profile%20views&color=0e75b6&style=flat" alt="satyam-jsw" /> </p>
 
-- 🌱 I’m currently learning **JAVA Development**
+- 🌱 I’m currently working at **Java Development**
 
 - 👯 I’m looking to collaborate on [BitCode](https://github.com/Satyam-jsw/Bitcode)
 
